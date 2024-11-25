@@ -1,0 +1,12 @@
+******** CPU: inputs = 10, Total Training time = 5.8181 seconds ********
+******** CPU: inputs = 11, Total Training time = 12.5591 seconds ********
+******** CPU: inputs = 12, Total Training time = 26.3039 seconds ********
+******** CPU: inputs = 13, Total Training time = 53.8697 seconds ********
+******** CPU: inputs = 14, Total Training time = 114.6588 seconds ********
+******** CPU: inputs = 15, Total Training time = 244.9972 seconds ********
+******** CPU: inputs = 16, Total Training time = 513.8233 seconds ********
+******** CPU: inputs = 17, Total Training time = 1097.9016 seconds ********
+******** CPU: inputs = 18, Total Training time = 2319.6750 seconds ********
+******** CPU: inputs = 19, Total Training time = 6439.5679 seconds ********
+******** CPU: inputs = 20, Total Training time = 13567.6982 seconds ********
+******** CPU: inputs = 21, Total Training time = 29090.0410 seconds ********
